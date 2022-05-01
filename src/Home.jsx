@@ -4,7 +4,7 @@ import {HashLink as Link } from 'react-router-hash-link';
 const Home = () => {
   return (
     <>
-      <div id='Home' className="bg-green-200 h-screen  flex"> 
+      <div id='Home' className="bg-green-300 h-screen  flex"> 
         <div className="flex flex-col items-center justify-center space-y-28">
           <h1 className="font-bold text-7xl ">
             
