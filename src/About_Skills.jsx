@@ -20,10 +20,10 @@ const About_Skills =()=>{
 
                    <div className="w-1/2 flex flex-col justify-between ml-4 mt-2 space-y-8">
                       <h1 className="text-3xl font-bold">Get to know me!</h1>
-                      <div className="flex flex-col justify-evenly h-40">         
-                          <p>I'm a Frontend Web Developer building the Front-end of Websites and Web Applications for both web and mobile view that leads to the success of the overall project. Check out some of my work in the Projects section.</p>
-                          <p>I discovered my passion for coding during my training time at CODEYOGI.</p>
-                          <p>I'm open to Job opportunities where I can contribute, learn and grow. You can find me at contact.</p>
+                      <div className="flex flex-col justify-evenly h-40 space-y-4 ">         
+                          <p className="text-xl">I'm a Frontend Web Developer building the Front-end of Websites and Web Applications for both web and mobile view that leads to the success of the overall project. Check out some of my work in the Projects section.</p>
+                          <p className="text-xl">I discovered my passion for coding during my training time at CODEYOGI.</p>
+                          <p className="text-xl">I'm open to Job opportunities where I can contribute, learn and grow. You can find me at contact.</p>
                       </div>
                       <button className="bg-yellow-400 font-bold text-2xl rounded-md p-3 w-40">CONTACT</button>
                    </div>

@@ -8,7 +8,7 @@ const Navbar = () => {
 
          <div className="flex items-center  justify-between space-x-4 ">
              <div>
-             <img src="https://picsum.photos/200" className="rounded-full ml-4 h-20" />
+             <img src="https://cdn.discordapp.com/attachments/932964230435569664/970581015061991424/clgphoto1.jpeg" className="rounded-full ml-4 h-20 w-20" />
              </div>
            
            <div>

@@ -22,10 +22,11 @@
           <div className="flex flex-col justify-center space-y-4">
            <h1 className="font-bold text-3xl text-white   ">  CONTACT</h1>
            <div className="flex space-x-4 mt-8 mb-4">
-            <img src="https://picsum.photos/200" className="rounded-full  h-16" />
-            <img src="https://picsum.photos/200" className="rounded-full  h-16" />
-            <img src="https://picsum.photos/200" className="rounded-full  h-16" />
-            <img src="https://picsum.photos/200" className="rounded-full  h-16" />
+            <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" className="rounded-full  h-16" />
+           
+            <img src="https://cdn.discordapp.com/attachments/932964230435569664/970577422246359040/instaa2.webp" className="rounded-full  h-16" />
+            <img src="https://www.freeiconspng.com/thumbs/twitter-icon/twitter-icon-download-18.png" className="rounded-full  h-16" />
+        
            </div>
            </div>
 
