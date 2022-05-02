@@ -8,11 +8,11 @@ const Navbar = () => {
 
          <div className="flex items-center  justify-between space-x-4 ">
              <div>
-             <img src="https://picsum.photos/200" className="rounded-full  h-20" />
+             <img src="https://picsum.photos/200" className="rounded-full ml-4 h-20" />
              </div>
            
            <div>
-           <h1 className="font-bold text-black text-5xl">Sohel Khan</h1>
+           <h1 className="font-bold text-black text-5xl"><span className="text-white-500">Sohel</span> <span className="text-green-400">Khan</span></h1>
            </div>
          </div>
 

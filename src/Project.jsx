@@ -21,7 +21,7 @@ const Project = () => {
 
 
        <div className="flex justify-around space-y-8">
-        <img src="https://picsum.photos/200" className="rounded-sm  " />
+        <img src="https://picsum.photos/200" className="rounded-sm  h-60 " />
          <Pro
         title="ToDo App"
         detail="ToDo List App is a kind of app that generally used to maintain our day-to-day tasks or list everything that we have to do."
@@ -31,7 +31,7 @@ const Project = () => {
 
 
        <div className="flex justify-around space-y-8">
-        <img src="https://picsum.photos/200" className="rounded-sm  " />
+        <img src="https://picsum.photos/200" className="rounded-sm  h-60 " />
       <Pro
         title="CODEYOGI-Clone "
         detail="It is a clone of https://app.codeyogi.io which i build by using my various skills ."
@@ -42,7 +42,7 @@ const Project = () => {
 
 
        <div className="flex justify-around space-y-8">
-        <img src="https://picsum.photos/200" className="rounded-sm  " />
+        <img src="https://picsum.photos/200" className="rounded-sm  h-60" />
       <Pro
         title="Ask Jud"
         detail="Do you need to ask a question? Are you looking for answers? Jud offers you a space to ask anything you want."

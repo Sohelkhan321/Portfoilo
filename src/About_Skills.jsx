@@ -18,7 +18,7 @@ const About_Skills =()=>{
                   
                   <div className="flex">
 
-                   <div className="bg-green-200 w-1/2 flex flex-col justify-between ml-4 mt-2 space-y-8">
+                   <div className="w-1/2 flex flex-col justify-between ml-4 mt-2 space-y-8">
                       <h1 className="text-3xl font-bold">Get to know me!</h1>
                       <div className="flex flex-col justify-evenly h-40">         
                           <p>I'm a Frontend Web Developer building the Front-end of Websites and Web Applications for both web and mobile view that leads to the success of the overall project. Check out some of my work in the Projects section.</p>
@@ -31,7 +31,7 @@ const About_Skills =()=>{
 
 
 
-                  <div className="bg-yellow-400 w-1/2 ml-8">
+                  <div className="w-1/2 ml-8">
                       <div className="flex flex-col justify-center items-start  space-y-4 ">
                       <h1 className="text-2xl font-bold text-center ml-4">My Skills</h1>
 
