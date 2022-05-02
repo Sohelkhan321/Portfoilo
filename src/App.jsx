@@ -10,7 +10,7 @@ import Project from "./Project";
 // import Second from "./Second";
 // import Top from "./Top";
 // import Top2 from "./Top2";
-import Image from "./Image";
+// import Image from "./Image";
 
 
 
@@ -32,7 +32,7 @@ function App() {
        <Project />
        
        <Contect /> 
-       <Image />
+       {/* <Image /> */}
           
 
 
