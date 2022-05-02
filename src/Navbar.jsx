@@ -21,19 +21,17 @@ const Navbar = () => {
  
        <div>
 
-        <Link to="#Home" className="font-bold text-3xl text-balck mr-8">
+        <Link to="#Home" className="font-bold text-3xl text-balck mr-8  hover:text-yellow-400">
           Home
         </Link>
-        <Link to="#about" className="font-bold text-3xl text-black mr-8">
+        <Link to="#about" className="font-bold text-3xl text-black mr-8 hover:text-yellow-400  ">
           About
         </Link>
-        <Link to="#work" className="font-bold text-3xl text-black mr-8">
-          Work
+        <Link to="#Project" className="font-bold text-3xl text-black mr-8 hover:text-yellow-400">
+          Projects
         </Link>
-        <Link to="#skills" className="font-bold text-3xl text-black mr-8">
-          Skills
-        </Link>
-        <Link to='#contect' className="font-bold text-3xl text-black mr-8" >Contect
+        
+        <Link to='#contect' className="font-bold text-3xl text-black mr-8  hover:text-yellow-400" >Contect
         </Link>
         </div>
 

@@ -3,40 +3,44 @@
   const Contect = () => {
     return (
       <>
-        <div id="contect" className="bg-black flex  items-center  space-x-80 h-screen">
-          
-          <div>
-            <h1 className="font-bold text-3xl text-white  ">  CONTACT</h1>
+        <div id="contect">
 
-            <div className="flex space-x-4 mt-8">
-            <img src="https://picsum.photos/200" className="rounded-full  h-20" />
-            <img src="https://picsum.photos/200" className="rounded-full  h-20" />
-            <img src="https://picsum.photos/200" className="rounded-full  h-20" />
-            <img src="https://picsum.photos/200" className="rounded-full  h-20" />
-            </div>
-          </div>
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          <div className=" flex flex-col space-y-2">
-            <h1 className="font-bold text-3xl text-white">SOHEL KHAN</h1>
-            <p className="text-xl text-white">
-              A Frontend focused Web Developer building the Frontend of Websites
-              and Web Applications that leads to the success of the overall
-              project.
-            </p>
-          </div>
+          <div className="bg-black ">
+
+
          
+          <div className="flex   flex-col"> 
+
+
+          
+          <div className="flex flex-col justify-center space-y-4 h-60 ">
+              <h1 className="text-white font-bold text-3xl">Sohel Khan</h1>
+              <p className="text-white text-xl">A Frontend focused Web Developer building the Frontend of Websites and Web Applications that leads to the success of the overall project.
+                </p>
+            </div>
+
+          <div className="flex flex-col justify-center space-y-4">
+           <h1 className="font-bold text-3xl text-white   ">  CONTACT</h1>
+           <div className="flex space-x-4 mt-8 mb-4">
+            <img src="https://picsum.photos/200" className="rounded-full  h-16" />
+            <img src="https://picsum.photos/200" className="rounded-full  h-16" />
+            <img src="https://picsum.photos/200" className="rounded-full  h-16" />
+            <img src="https://picsum.photos/200" className="rounded-full  h-16" />
+           </div>
+           </div>
+
+
+           </div>
+
+
+
+
+          </div>
+
+          <h1 className="text-black bg-green-400 text-center font-bold text-xl">Made with
+at CODEYOGI</h1>
+          
+        
         </div>
         
       </>
@@ -44,6 +48,79 @@
   };
 
   export default Contect;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  // <div>
+  //           <h1 className="font-bold text-3xl text-white  ">  CONTACT</h1>
+
+  //           <div className="flex space-x-4 mt-8">
+  //           <img src="https://picsum.photos/200" className="rounded-full  h-20" />
+  //           <img src="https://picsum.photos/200" className="rounded-full  h-20" />
+  //           <img src="https://picsum.photos/200" className="rounded-full  h-20" />
+  //           <img src="https://picsum.photos/200" className="rounded-full  h-20" />
+  //           </div>
+  //         </div>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+  //         <div className=" flex flex-col space-y-2">
+  //           <h1 className="font-bold text-3xl text-white">SOHEL KHAN</h1>
+  //           <p className="text-xl text-white">
+  //             A Frontend focused Web Developer building the Frontend of Websites
+  //             and Web Applications that leads to the success of the overall
+  //             project.
+  //           </p>
+  //         </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   {
     /* <div className="flex flex-col   space-y-4 place-self-end bg-green-500">
