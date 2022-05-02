@@ -5,27 +5,27 @@
       <>
         <div id="contect">
 
-          <div className="bg-black ">
+          <div className="bg-black mt-4 w-full ">
 
 
          
-          <div className="flex   flex-col"> 
+          <div className="sm:flex"> 
 
 
           
-          <div className="flex flex-col justify-center space-y-4 h-60 ">
-              <h1 className="text-white font-bold text-3xl">Sohel Khan</h1>
-              <p className="text-white text-xl">A Frontend focused Web Developer building the Frontend of Websites and Web Applications that leads to the success of the overall project.
+          <div className="flex flex-col justify-center items-start space-y-4 h-60 ml-4 ">
+              <h1 className="text-white font-bold text-3xl ml-4">Sohel Khan</h1>
+              <p className="text-white text-xl  text-start ">A Frontend focused Web Developer building the Frontend of Websites and Web Applications that leads to the success of the overall project.
                 </p>
             </div>
 
           <div className="flex flex-col justify-center space-y-4">
-           <h1 className="font-bold text-3xl text-white   ">  CONTACT</h1>
+           <h1 className="font-bold text-3xl text-white  ml-4 ">  CONTACT</h1>
            <div className="flex space-x-4 mt-8 mb-4">
-            <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" className="rounded-full  h-16" />
+            <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" className="rounded-full ml-2  h-12" />
            
-            <img src="https://cdn.discordapp.com/attachments/932964230435569664/970577422246359040/instaa2.webp" className="rounded-full  h-16" />
-            <img src="https://www.freeiconspng.com/thumbs/twitter-icon/twitter-icon-download-18.png" className="rounded-full  h-16" />
+            <img src="https://cdn.discordapp.com/attachments/932964230435569664/970577422246359040/instaa2.webp" className="rounded-full  h-12" />
+            <img src="https://www.freeiconspng.com/thumbs/twitter-icon/twitter-icon-download-18.png" className="rounded-full  h-12" />
         
            </div>
            </div>

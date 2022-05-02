@@ -1,5 +1,5 @@
 import React from "react";
-import About_Skills from "./About_Skills";
+// import About_Skills from "./About_Skills";
 import Contect from "./Contect";
 // import About from "./About";
 import Home from "./Home";
@@ -11,6 +11,7 @@ import Project from "./Project";
 // import Top from "./Top";
 // import Top2 from "./Top2";
 // import Image from "./Image";
+import Responsive from "./Responsive";
 
 
 
@@ -27,7 +28,9 @@ function App() {
  
         <Home /> 
        
-      <About_Skills />
+      {/* <About_Skills /> */}
+
+      <Responsive />
        
        <Project />
        
