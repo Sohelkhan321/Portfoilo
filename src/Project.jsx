@@ -8,7 +8,7 @@ const Project = () => {
           
       <div>
 
-                   <div className="flex flex-col justify-around  h-40 items-center mb-12">
+                   <div className="flex flex-col justify-around  mt-12 items-center space-y-8 ">
                     <h1 className="text-4xl font-bold">PROJECTS</h1>
                     <div className="bg-yellow-400 w-16 rounded-full text-center">...</div>
                     <p className="text-2xl text-center">
@@ -20,8 +20,8 @@ const Project = () => {
                       
 
                       <div className="  space-y-12 md:flex"> 
-                     <div className="ml-8 space-y-4">
-                   <img className="" src="https://cdn.discordapp.com/attachments/932964230435569664/970578835374506004/68747470733a2f2f692e696d6775722e636f6d2f414b54747952552e706e67-1.png" className="rounded-sm  h-60 " />
+                     <div className=" m-20">
+                   <img className=" " src="https://images.ctfassets.net/lzny33ho1g45/6Zu8NJclC9oAPkMLBhvj6R/a25e1c8d714a633ad4920325ee688769/image9.jpg?w=1400" className="rounded-sm  h-60 " />
                     </div>
                     <div className="flex flex-col justify-between items-center space-y-8">
                     <h1 className="font-bold text-3xl">ToDo App</h1>
@@ -29,6 +29,7 @@ const Project = () => {
                     
                     <button className="bg-yellow-400 p-4 rounded-md w-60 font-bold text-xl">Check Out !</button>
                      </div>
+                     <hr className=""></hr>
                     </div>
 
 
@@ -36,8 +37,8 @@ const Project = () => {
 
 
                     <div className="  space-y-12 md:flex"> 
-                     <div className="ml-12 w-96">
-                   <img className="" src="https://cdn.discordapp.com/attachments/932964230435569664/970578389738090496/Screenshot_20220502-122152.png" className="rounded-sm  h-60 " />
+                     <div className="m-20">
+                   <img className="" src="https://images.ctfassets.net/lzny33ho1g45/6Zu8NJclC9oAPkMLBhvj6R/a25e1c8d714a633ad4920325ee688769/image9.jpg?w=1400" className="rounded-sm  h-60 " />
                     </div>
                     <div className="flex flex-col justify-between items-center space-y-8">
                     <h1 className="font-bold text-3xl ml-8">CODEYOGI-Clone</h1>
@@ -45,13 +46,14 @@ const Project = () => {
                     
                     <button className="bg-yellow-400 p-4 rounded-md w-60 font-bold text-xl ml-8">Check Out !</button>
                      </div>
+                     <hr></hr>
                     </div>
 
 
 
                     <div className="  space-y-12 md:flex"> 
-                     <div className="ml-2 w-82 mt-8 ">
-                   <img className="" src="https://cdn.discordapp.com/attachments/932964230435569664/970579115092631562/askjud1_38.jpg" className="rounded-sm  h-60 " />
+                     <div className="m-20 ">
+                   <img className="" src="https://images.ctfassets.net/lzny33ho1g45/6Zu8NJclC9oAPkMLBhvj6R/a25e1c8d714a633ad4920325ee688769/image9.jpg?w=1400" className="rounded-sm  h-60 " />
                     </div>
                     <div className="flex flex-col justify-between items-center space-y-8">
                     <h1 className="font-bold text-3xl">Ask jud</h1>
@@ -59,6 +61,7 @@ const Project = () => {
                     
                     <button className="bg-yellow-400 p-4 rounded-md w-60 font-bold text-xl">Check Out !</button>
                      </div>
+                     <hr></hr>
                     </div>
 
 

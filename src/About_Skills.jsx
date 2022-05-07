@@ -35,7 +35,7 @@ const About_Skills =()=>{
 
 
                   <div className=" ml-8 ">
-                      <div className="flex flex-col justify-center items-start  space-y-4 sm:flex flex-col ">
+                      <div className="flex flex-col justify-center items-start  space-y-4 ">
                       <h1 className="text-2xl font-bold text-center ml-4">My Skills</h1>
 
                           <div>

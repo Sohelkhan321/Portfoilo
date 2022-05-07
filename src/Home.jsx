@@ -9,18 +9,18 @@ const Home = () => {
         className="bg-green-300 h-screen bg-[url('https://d33wubrfki0l68.cloudfront.net/daac8858fd4a0ccea44f59dfd079c3c16c263f33/c157c/assets/svg/common-bg.svg')] "
       >
         <div className="flex flex-col justify-center items-center space-y-16 h-screen">
-          <h1 className="font-bold text-7xl ">
+          <h1 className="font-bold text-7xl text-center ">
             HEY, I'am <span className="text-green-600">Sohel Khan</span>
           </h1>
 
-          <p className="text-2xl">
+          <p className="text-2xl m-3 ">
             A <span className="text-yellow-400">Frontend</span> focused Web
             Developer building the Frontend of{" "}
             <span className="text-yellow-400">Website</span> and Web
             Applications that leads to the success of the overall project.
           </p>
           <button className="bg-yellow-400 p-4 m-4 w-28 rounded-md ">
-            Welcom
+            Welcome
           </button>
         </div>
       </div>
